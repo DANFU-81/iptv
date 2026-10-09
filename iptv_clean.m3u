@@ -115,3 +115,5 @@ http://101.35.240.114:88/live.php?id=黑龙江卫视
 http://101.35.240.114:88/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",大湾区卫视
 http://101.35.240.114:88/live.php?id=大湾区卫视
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://tb.zbds.top/logo/风云音乐.png" group-title="央视IPV4",风云音乐
+http://101.35.240.114:88/stream?channel=fengyunmusi
