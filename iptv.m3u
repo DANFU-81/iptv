@@ -31,16 +31,10 @@ http://101.35.240.114:88/live.php?id=CCTV13
 http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV15
 http://101.35.240.114:88/live.php?id=CCTV15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/奥林匹克.png" group-title="央视频道",CCTV16
-http://115.211.1.213:8001/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV17
 http://101.35.240.114:88/live.php?id=CCTV17
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tb.zbds.top/logo/重温经典.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",重温经典
-http://101.35.240.114:88/live.php?id=重温经典
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CHC影迷电影
-http://101.35.240.114:88/live.php?id=CHC影迷电影
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",五星体育
-http://101.35.240.114:88/live.php?id=五星体育
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://tb.zbds.top/logo/环球奇观.png" group-title="央视频道",环球奇观
+http://36.49.50.4:8800/rtp/239.37.0.105:5540
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://tb.zbds.top/logo/CCTV风云音乐.png" group-title="央视频道",风云音乐
 http://218.86.187.125:8188/rtp/238.255.2.24:5999
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://tb.zbds.top/logo/CCTV女性时尚.png" group-title="央视频道",女性时尚
@@ -51,30 +45,12 @@ http://218.86.187.125:8188/rtp/238.255.2.25:5999
 http://218.86.187.125:8188/rtp/238.255.2.28:5999
 #EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://tb.zbds.top/logo/央视文化精品.png" group-title="央视频道",央视文化精品
 http://218.86.187.125:8188/rtp/238.255.2.32:5999
-#EXTINF:-1 group-title="测试频道",金鹰纪实
-http://115.171.216.23:4000/rtp/225.1.8.31:8156
-#EXTINF:-1 group-title="测试频道",茶频道
-http://115.171.216.23:4000/rtp/225.1.8.72:8002
-#EXTINF:-1 group-title="测试频道",IPTV15音乐现场
-http://115.171.216.23:4000/rtp/225.1.8.230:4120
-#EXTINF:-1 group-title="测试频道",上海欢笑剧场
-http://115.211.1.213:8001/udp/233.50.201.189:5140
-#EXTINF:-1 group-title="测试频道",上海动漫秀场
-http://36.49.50.4:8800/rtp/239.37.0.242:5540
-#EXTINF:-1 group-title="测试频道",上海游戏风云
-http://36.49.50.4:8800/rtp/239.37.0.243:5540
-#EXTINF:-1 group-title="测试频道",上海乐游频道
-http://36.49.50.4:8800/rtp/239.37.0.236:5540
-#EXTINF:-1 group-title="测试频道",环球奇观
-http://36.49.50.4:8800/rtp/239.37.0.105:5540
-#EXTINF:-1 group-title="测试频道",IPTV美人
-http://113.251.74.243:8012/rtp/235.254.198.80:1596
-#EXTINF:-1 group-title="测试频道",IPTV解密
-http://113.251.74.243:8012/rtp/235.254.198.82:1604
-#EXTINF:-1 group-title="测试频道",凤凰中文
-http://171.213.242.5:8188/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="测试频道",凤凰资讯
-http://171.213.242.5:8188/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tb.zbds.top/logo/重温经典.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",重温经典
+http://101.35.240.114:88/live.php?id=重温经典
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CHC影迷电影
+http://101.35.240.114:88/live.php?id=CHC影迷电影
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",五星体育
+http://101.35.240.114:88/live.php?id=五星体育
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视频道",湖南卫视
 http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="卫视频道",北京卫视
