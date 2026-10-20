@@ -43,12 +43,12 @@ http://218.86.187.125:8188/rtp/238.255.2.27:5999
 http://218.86.187.125:8188/rtp/238.255.2.25:5999
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" group-title="央视频道",风云剧场
 http://218.86.187.125:8188/rtp/238.255.2.28:5999
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" group-title="央视频道",CHC影迷电影
-http://101.35.240.114:88/live.php?id=CHC影迷电影
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="卫视频道",重温经典
-http://101.35.240.114:88/live.php?id=重温经典
 #EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" group-title="央视频道",央视文化精品
 http://218.86.187.125:8188/rtp/238.255.2.32:5999
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="卫视频道",重温经典
+http://101.35.240.114:88/live.php?id=重温经典
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" group-title="央视频道",CHC影迷电影
+http://101.35.240.114:88/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="卫视频道",五星体育
 http://101.35.240.114:88/live.php?id=五星体育
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
