@@ -69,7 +69,7 @@ http://101.35.240.114:88/live.php?id=吉林卫视
 http://101.35.240.114:88/live.php?id=四川卫视
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" http-user-agent="AptvPlayer-UA" group-title="卫视频道",天津卫视
 http://101.35.240.114:88/live.php?id=天津卫视
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent=""AptvPlayer-UA" group-title="卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="AptvPlayer-UA" group-title="卫视频道",安徽卫视
 http://101.35.240.114:88/live.php?id=安徽卫视
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" http-user-agent="AptvPlayer-UA" group-title="卫视频道",山东卫视
 http://101.35.240.114:88/live.php?id=山东卫视
