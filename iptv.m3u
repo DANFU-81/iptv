@@ -105,27 +105,27 @@ http://218.86.187.125:8188/rtp/238.255.2.25:5999
 http://218.86.187.125:8188/rtp/238.255.2.28:5999
 #EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://tb.zbds.top/logo/央视文化精品.png" group-title="央视频道",央视文化精品
 http://218.86.187.125:8188/rtp/238.255.2.32:5999
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tb.zbds.top/logo/重温经典.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://tb.zbds.top/logo/重温经典.png" http-user-agent="AptvPlayer-UA" group-title="综合频道",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CHC影迷电影
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" http-user-agent="AptvPlayer-UA" group-title="综合频道",CHC影迷电影
 http://101.35.240.114:88/live.php?id=CHC影迷电影
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" http-user-agent="AptvPlayer-UA" group-title="卫视频道",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" http-user-agent="AptvPlayer-UA" group-title="综合频道",五星体育
 http://101.35.240.114:88/live.php?id=五星体育
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" group-title="港台频道",香港卫视
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" group-title="综合频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="港台频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="综合频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="港台频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="综合频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
 http://101.35.240.114:88/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="港台频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="综合频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://101.35.240.114:88/phenix.php?id=fhhk
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",音乐石榴「音乐轮播」
 https://cdn.ttvb.eu.org/huya/17091681
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",音乐速递「音乐轮播」
 https://cdn.ttvb.eu.org/huya/19439762
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="•影视「轮播」",治愈•放松「音乐」
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",治愈•放松「音乐轮播」
 https://cdn.ttvb.eu.org/huya/21241811
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="•影视「轮播」",阅读•学习「音乐」
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",阅读•学习「音乐轮播」
 https://cdn.ttvb.eu.org/huya/21241813
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",跳舞「轮播」
 https://cdn.ttvb.eu.org/huya/24634408
