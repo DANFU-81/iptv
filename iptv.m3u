@@ -3,14 +3,17 @@
 http://36.49.50.4:8800/rtp/239.37.0.105:5540
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://tb.zbds.top/logo/CCTV风云音乐.png" group-title="综合频道",风云音乐
 http://218.86.187.125:8188/rtp/238.255.2.24:5999
+http://180.213.170.24:8188/rtp/239.5.1.123:5000
+http://106.59.2.53:55555/rtp/239.200.200.86:8008
+http://124.112.241.5:4022/rtp/238.1.79.64:4648
+http://110.178.145.148:8188/udp/239.1.1.96:8096
+http://106.116.241.206:9999/rtp/239.254.201.221:7259
 #EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",音乐石榴「轮播」
 https://cdn.ttvb.eu.org/huya/17091681
 #EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",音乐速递「轮播」
 https://cdn.ttvb.eu.org/huya/19439762
 #EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",治愈放松「轮播」
 https://cdn.ttvb.eu.org/huya/21241811
-#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",跳舞「轮播」
-https://cdn.ttvb.eu.org/huya/24634408
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" group-title="综合频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="综合频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
