@@ -1,0 +1,26 @@
+name: Sync IPTV Source
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download m3u
+        run: |
+          curl -sL -o ipv4.m3u https://guovin.github.io/iptv-api/ipv4.m3u
+          curl -sL -o result.m3u https://guovin.github.io/iptv-api/result.m3u
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "auto sync: update m3u $(date -u '+%Y-%m-%d %H:%M')"
+          git push
