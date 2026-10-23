@@ -143,6 +143,8 @@ https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b3
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://124.112.241.5:4022/rtp/238.1.79.64:4648
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="💰央视付费频道",第一剧场
 https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="💰央视付费频道",第一剧场
@@ -545,12 +547,11 @@ http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="🏀体育频道",天津体育
 http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="🏀体育频道",天津体育
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记.png" group-title="🏛经典剧场",西游记
-http://173.208.234.146/live/vlxyj.m3u8
-#EXTINF:-1 tvg-id="水浒传" tvg-name="水浒传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/水浒传.png" group-title="🏛经典剧场",水浒传
-http://173.208.234.146/live/vlshz.m3u8
-#EXTINF:-1 tvg-id="闯关东" tvg-name="闯关东" tvg-logo="https://www.xn--rgv465a.top/tvlogo/闯关东.png" group-title="🏛经典剧场",闯关东
-http://173.208.234.146/live/lbchuangguandong.m3u8
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://tb.zbds.top/logo/环球奇观.png" group-title="我的收藏",环球奇观
+http://36.49.50.4:8800/rtp/239.37.0.105:5540
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="我的收藏",音乐石榴「轮播」
+https://cdn.ttvb.eu.org/huya/17091681
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="我的收藏",音乐速递「轮播」
+https://cdn.ttvb.eu.org/huya/19439762
+#EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="我的收藏",治愈放松「轮播」
+https://cdn.ttvb.eu.org/huya/21241811
