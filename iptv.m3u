@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://tb.zbds.top/logo/环球奇观.png" group-title="综合频道",环球奇观
-http://36.49.50.4:8800/rtp/239.37.0.105:5540
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://tb.zbds.top/logo/CCTV风云音乐.png" group-title="综合频道",风云音乐
 http://124.112.241.5:4022/rtp/238.1.79.64:4648
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://tb.zbds.top/logo/CCTV风云音乐.png" group-title="综合频道",风云音乐
@@ -9,6 +7,8 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 https://cdn.ttvb.eu.org/huya/17091681
 #EXTINF:-1 tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="综合频道",音乐速递「轮播」
 https://cdn.ttvb.eu.org/huya/19439762
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://tb.zbds.top/logo/环球奇观.png" group-title="综合频道",环球奇观
+http://36.49.50.4:8800/rtp/239.37.0.105:5540
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/香港卫视.png" group-title="综合频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="综合频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
